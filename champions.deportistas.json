@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "6736bc8a974040bd2957433c"
+  },
+  "nombre": "Erling Haaland",
+  "edad": 24,
+  "equipo": "Manchester City",
+  "posicion": "Delantero",
+  "numero": 9
+},
+{
+  "_id": {
+    "$oid": "6736bc8a974040bd2957433d"
+  },
+  "nombre": "Vinicius Jr",
+  "edad": 27,
+  "equipo": "Real Madrid",
+  "posicion": "Mediocampista",
+  "numero": 11
+},
+{
+  "_id": {
+    "$oid": "6736bc8a974040bd2957433e"
+  },
+  "nombre": "Lamine Yamal",
+  "edad": 21,
+  "equipo": "Barcelona",
+  "posicion": "Delantero",
+  "numero": 19
+},
+{
+  "_id": {
+    "$oid": "6736bc8a974040bd2957433f"
+  },
+  "nombre": "Luis Diaz",
+  "edad": 23,
+  "equipo": "Liverpool",
+  "posicion": "Delantero",
+  "numero": 7
+},
+{
+  "_id": {
+    "$oid": "6736bc8a974040bd29574340"
+  },
+  "nombre": "Louis Mouquet",
+  "edad": 26,
+  "equipo": "PSG",
+  "posicion": "Arquero",
+  "numero": 1
+}]

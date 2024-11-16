@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "6736ce7b974040bd29574346"
+  },
+  "nombre": "Real Madrid",
+  "estadio": "Santiago Bernabeú",
+  "entrenador": "Juan quintero",
+  "jugadores": [
+    "Vinicius Jr",
+    "Rodrigo",
+    "Kylian Mbappe",
+    "casemiro"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6736ce7b974040bd29574347"
+  },
+  "nombre": "Liverpool",
+  "estadio": "Anfield",
+  "entrenador": "juan morales",
+  "jugadores": [
+    "Luis Diaz",
+    "Mohamed Salah",
+    "Darwin Nuñez",
+    "Virgil van"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6736ce7b974040bd29574348"
+  },
+  "nombre": "Barcelona",
+  "estadio": "Olímpico de Montjuic",
+  "entrenador": "Alexander Castañeda",
+  "jugadores": [
+    "Lamine Yamal",
+    "Robert Lewandowski",
+    "gavi",
+    "Raphinha"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6736ce7b974040bd29574349"
+  },
+  "nombre": "PSG",
+  "estadio": "Parc des Princes",
+  "entrenador": "rodrigo gaucho",
+  "jugadores": [
+    "Marco asensio",
+    "Louis Mouquet",
+    "Bradley Barcola",
+    "William Pacho"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6736ce7b974040bd2957434a"
+  },
+  "nombre": "Manchester City",
+  "estadio": "Etihad Stadium",
+  "entrenador": "Pedro Ramírez",
+  "jugadores": [
+    "Erling Haland",
+    "Rodrigo Hernandez",
+    "Phill Foden",
+    "kevin de bruyne"
+  ]
+}]

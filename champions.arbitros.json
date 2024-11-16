@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "6736c0db974040bd29574341"
+  },
+  "nombre": "José González",
+  "edad": 38,
+  "experiencia": "12 años",
+  "partidosDirigidos": 108,
+  "ultimoPartido": {
+    "equipoLocal": "Real Madrid",
+    "equipoVisitante": "Barcelona"
+  }
+},
+{
+  "_id": {
+    "$oid": "6736c0db974040bd29574342"
+  },
+  "nombre": "carlos perez",
+  "edad": 28,
+  "experiencia": "8 años",
+  "partidosDirigidos": 100,
+  "ultimoPartido": {
+    "equipoLocal": "Barcelona",
+    "equipoVisitante": "Liverpool"
+  }
+},
+{
+  "_id": {
+    "$oid": "6736c0db974040bd29574343"
+  },
+  "nombre": "luis hernandez",
+  "edad": 30,
+  "experiencia": "11 años",
+  "partidosDirigidos": 250,
+  "ultimoPartido": {
+    "equipoLocal": "PSG",
+    "equipoVisitante": "Manchester City"
+  }
+},
+{
+  "_id": {
+    "$oid": "6736c0db974040bd29574344"
+  },
+  "nombre": "José murillo",
+  "edad": 25,
+  "experiencia": "2 años",
+  "partidosDirigidos": 150,
+  "ultimoPartido": {
+    "equipoLocal": "Manchester City",
+    "equipoVisitante": "Real Madrid"
+  }
+},
+{
+  "_id": {
+    "$oid": "6736c0db974040bd29574345"
+  },
+  "nombre": "roberto phillip",
+  "edad": 36,
+  "experiencia": "11 años",
+  "partidosDirigidos": 180,
+  "ultimoPartido": {
+    "equipoLocal": "Liverpool",
+    "equipoVisitante": "PSG"
+  }
+}]

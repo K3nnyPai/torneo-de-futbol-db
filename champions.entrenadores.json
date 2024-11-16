@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6736b85b974040bd29574337"
+  },
+  "nombre": "Pedro Ramírez",
+  "edad": 45,
+  "equipo": "Manchester City",
+  "experiencia": "10 años"
+},
+{
+  "_id": {
+    "$oid": "6736b85b974040bd29574338"
+  },
+  "nombre": "Juan quintero",
+  "edad": 38,
+  "equipo": "Real Madrid",
+  "experiencia": "20 años"
+},
+{
+  "_id": {
+    "$oid": "6736b85b974040bd29574339"
+  },
+  "nombre": "Alexander Castañeda",
+  "edad": 30,
+  "equipo": "Barcelona",
+  "experiencia": "10 años"
+},
+{
+  "_id": {
+    "$oid": "6736b85b974040bd2957433a"
+  },
+  "nombre": "juan morales",
+  "edad": 34,
+  "equipo": "Liverpool",
+  "experiencia": "12 años"
+},
+{
+  "_id": {
+    "$oid": "6736b85b974040bd2957433b"
+  },
+  "nombre": "rodrigo gaucho",
+  "edad": 40,
+  "equipo": "PSG",
+  "experiencia": "20 años"
+}]

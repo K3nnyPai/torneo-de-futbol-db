@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "6737e0031f4583cd01ef7bdb"
+  },
+  "equipo": "Real Madrid",
+  "puntos": 12,
+  "partidosJugados": 5,
+  "victorias": 4,
+  "empates": 0,
+  "derrotas": 1,
+  "golesFavor": 10,
+  "golesContra": 5,
+  "diferenciaGoles": 5
+},
+{
+  "_id": {
+    "$oid": "6737e0031f4583cd01ef7bdc"
+  },
+  "equipo": "Barcelona",
+  "puntos": 7,
+  "partidosJugados": 5,
+  "victorias": 2,
+  "empates": 1,
+  "derrotas": 2,
+  "golesFavor": 8,
+  "golesContra": 10,
+  "diferenciaGoles": -2
+},
+{
+  "_id": {
+    "$oid": "6737e0031f4583cd01ef7bdd"
+  },
+  "equipo": "Manchester City",
+  "puntos": 9,
+  "partidosJugados": 5,
+  "victorias": 3,
+  "empates": 0,
+  "derrotas": 2,
+  "golesFavor": 12,
+  "golesContra": 8,
+  "diferenciaGoles": 4
+},
+{
+  "_id": {
+    "$oid": "6737e0031f4583cd01ef7bde"
+  },
+  "equipo": "Liverpool",
+  "puntos": 5,
+  "partidosJugados": 5,
+  "victorias": 1,
+  "empates": 2,
+  "derrotas": 2,
+  "golesFavor": 5,
+  "golesContra": 7,
+  "diferenciaGoles": -2
+},
+{
+  "_id": {
+    "$oid": "6737e0031f4583cd01ef7bdf"
+  },
+  "equipo": "PSG",
+  "puntos": 6,
+  "partidosJugados": 5,
+  "victorias": 1,
+  "empates": 3,
+  "derrotas": 1,
+  "golesFavor": 6,
+  "golesContra": 6,
+  "diferenciaGoles": 0
+}]

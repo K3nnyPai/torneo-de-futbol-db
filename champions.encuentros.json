@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "6736e1301f4583cd01ef7bd6"
+  },
+  "fecha": "2023-10-01",
+  "lugar": "Santiago Bernabeú",
+  "equipoLocal": "Real Madrid",
+  "equipoVisitante": "Barcelona",
+  "resultado": {
+    "golesLocal": 3,
+    "golesVisitante": 1
+  },
+  "arbitro": "José González"
+},
+{
+  "_id": {
+    "$oid": "6736e1301f4583cd01ef7bd7"
+  },
+  "fecha": "2023-10-05",
+  "lugar": "Olímpico de Montjuic",
+  "equipoLocal": "Barcelona",
+  "equipoVisitante": "PSG",
+  "resultado": {
+    "golesLocal": 2,
+    "golesVisitante": 0
+  },
+  "arbitro": "carlos perez"
+},
+{
+  "_id": {
+    "$oid": "6736e1301f4583cd01ef7bd8"
+  },
+  "fecha": "2023-10-10",
+  "lugar": "Etihad Stadium",
+  "equipoLocal": "Manchester City",
+  "equipoVisitante": "Liverpool",
+  "resultado": {
+    "golesLocal": 0,
+    "golesVisitante": 3
+  },
+  "arbitro": "luis hernandez"
+},
+{
+  "_id": {
+    "$oid": "6736e1301f4583cd01ef7bd9"
+  },
+  "fecha": "2023-10-15",
+  "lugar": "Parc des Princes",
+  "equipoLocal": "PSG",
+  "equipoVisitante": "Manchester City",
+  "resultado": {
+    "golesLocal": 2,
+    "golesVisitante": 2
+  },
+  "arbitro": "José murillo"
+},
+{
+  "_id": {
+    "$oid": "6736e1301f4583cd01ef7bda"
+  },
+  "fecha": "2023-10-20",
+  "lugar": "Anfield",
+  "equipoLocal": "Liverpool",
+  "equipoVisitante": "Real Madrid",
+  "resultado": {
+    "golesLocal": 3,
+    "golesVisitante": 2
+  },
+  "arbitro": "roberto phillip"
+}]
